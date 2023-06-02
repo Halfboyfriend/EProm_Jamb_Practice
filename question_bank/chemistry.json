@@ -1,0 +1,689 @@
+[
+    {
+        "subject": "chemistry",
+        "status": 200,
+        "total": 40,
+        "data": [
+            {
+                "id": 205,
+                "question": "When water boilers are used for a long period of time, the solid substances left behind as scale are",
+                "option": {
+                    "a": "Magnesium trioxosilicate (IV) and calcium Tetraoxosulphate(VI)",
+                    "b": "Magnesium trioxosilicate(IV) and rust",
+                    "c": "Clay and magnesium trioxosilicate (IV)",
+                    "d": "clay and rust",
+                    "e": "clay and rust"
+                },
+                "section": "",
+                "image": "",
+                "answer": "",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2005"
+            },
+            {
+                "id": 215,
+                "question": "Which of the following ions requires the largest quantity of electricity for discharge at an electrode",
+                "option": {
+                    "a": "2.5 moles of Cu2+",
+                    "b": "4.0 moles of CI-",
+                    "c": "2.0 moles of Al3+",
+                    "d": "3.0 moles of Na+",
+                    "e": "3.0 moles of Na+"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2005"
+            },
+            {
+                "id": 176,
+                "question": "Metalloids are also referred to as",
+                "option": {
+                    "a": "Metals",
+                    "b": "Semi-metals",
+                    "c": "Colloids",
+                    "d": "Non-metals",
+                    "e": "Non-metals"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2005"
+            },
+            {
+                "id": 102,
+                "question": "When sugar is dissolved in tea, the reaction is always accompanied by",
+                "option": {
+                    "a": "Positive entropy change",
+                    "b": "Negative entropy change",
+                    "c": "No entropy change",
+                    "d": "A minimum entropy change",
+                    "e": "A minimum entropy change"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2003"
+            },
+            {
+                "id": 218,
+                "question": "The ion that can be used as an oxidizing agent is",
+                "option": {
+                    "a": "Fe3+",
+                    "b": "F-",
+                    "c": "Ca2+",
+                    "d": "Au3+",
+                    "e": "Au3+"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2006"
+            },
+            {
+                "id": 118,
+                "question": "Ethanol reacts with excess acidified K2Cr2O7 to produce",
+                "option": {
+                    "a": "Ethanoic acid",
+                    "b": "Ethanol",
+                    "c": "Ethyl ethanoate",
+                    "d": "Ethanoic acid",
+                    "e": "Ethanoic acid"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2003"
+            },
+            {
+                "id": 190,
+                "question": "Which of these properties gives a solid its definite shape",
+                "option": {
+                    "a": "Weak intermolecular attraction",
+                    "b": "High boiling point",
+                    "c": "High melting point",
+                    "d": "Strong intermolecular attraction",
+                    "e": "Strong intermolecular attraction"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2005"
+            },
+            {
+                "id": 61,
+                "question": "If 0.75 mole of cyclopropane and 0.66 mole of oxygen are mixed in a vessel with a total pressure of 0.7 atmosphere. What is the partial pressure of oxygen in the mixture",
+                "option": {
+                    "a": "0.55 atmosphere",
+                    "b": "0.44 atmosphere",
+                    "c": "0.33 atmosphere",
+                    "d": "0.22 atmosphere",
+                    "e": "0.22 atmosphere"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2002"
+            },
+            {
+                "id": 121,
+                "question": "Which of the following is found in cotton",
+                "option": {
+                    "a": "Starch",
+                    "b": "Cellulose",
+                    "c": "fat",
+                    "d": "oil",
+                    "e": "oil"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2003"
+            },
+            {
+                "id": 80,
+                "question": "Neutral atoms of neon with atomic number 10 have the same number of electrons as",
+                "option": {
+                    "a": "O2+",
+                    "b": "Ca2+",
+                    "c": "K+",
+                    "d": "Mg2+",
+                    "e": "Mg2+"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2003"
+            },
+            {
+                "id": 67,
+                "question": "Ordinary glass is manufactured from silica, Ca CO3 and",
+                "option": {
+                    "a": "K2CO3",
+                    "b": "NaHCO3",
+                    "c": "Na2CO3",
+                    "d": "K2SO4",
+                    "e": "K2SO4"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2002"
+            },
+            {
+                "id": 93,
+                "question": "When 10g of sodium hydroxide is dissolved in 1000cm3 of water, the solution formed is approximately   [Na = 23, H = 1, O = 16]",
+                "option": {
+                    "a": "0.01 mol dm-3",
+                    "b": "0.10 mol dm-3",
+                    "c": "0.25 mol dm-3",
+                    "d": "0.50 mol dm-3",
+                    "e": "0.50 mol dm-3"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2003"
+            },
+            {
+                "id": 135,
+                "question": "Hardness of water is caused by the presence of the ions of",
+                "option": {
+                    "a": "Magnesium and silver",
+                    "b": "Calcium and magnesium",
+                    "c": "Sodium and potassium",
+                    "d": "Calcium and sodium",
+                    "e": "Calcium and sodium"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2004"
+            },
+            {
+                "id": 170,
+                "question": "The property used in the industrial preparation of nitrogen and oxygen from air is",
+                "option": {
+                    "a": "Rate of diffusion",
+                    "b": "Solubility",
+                    "c": "Density",
+                    "d": "Boiling point",
+                    "e": "Boiling point"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2005"
+            },
+            {
+                "id": 96,
+                "question": "The commonest feature of the reactions at the anode is that",
+                "option": {
+                    "a": "Electrons are consumed",
+                    "b": "Oxidation is involved",
+                    "c": "Ions are reduced",
+                    "d": "Electrode dissolves",
+                    "e": "Electrode dissolves"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2003"
+            },
+            {
+                "id": 304,
+                "question": "The compound that is used as an anaesthetic is",
+                "option": {
+                    "a": "CHCI3",
+                    "b": "CH2C2",
+                    "c": "CH3CI",
+                    "d": "CCI4",
+                    "e": "CCI4"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 112,
+                "question": "Ethene reacts with hydrogen bromide to give",
+                "option": {
+                    "a": "CH2Br2",
+                    "b": "CH3CH2Br",
+                    "c": "C2H2Br2",
+                    "d": "CHBr3",
+                    "e": "CHBr3"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2003"
+            },
+            {
+                "id": 214,
+                "question": "2H2 + O2  \u2192 2H2O  \u0394H = -571Kj  In equation above, how much heat will be liberated if 12.0g of hydrogen is burnt in excess oxygen?",
+                "option": {
+                    "a": "-1713kJ",
+                    "b": "+1142kJ",
+                    "c": "-571kJ",
+                    "d": "-1142kJ",
+                    "e": "-1142kJ"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2005"
+            },
+            {
+                "id": 6,
+                "question": "Milikan\u2019s contribution to the development of atomic theory is the determination of",
+                "option": {
+                    "a": "Charge on electron",
+                    "b": "Positive rays",
+                    "c": "Charge to amss ratio",
+                    "d": "Cathode rays",
+                    "e": "Cathode rays"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2001"
+            },
+            {
+                "id": 261,
+                "question": "Which of the following is an example of a mixture",
+                "option": {
+                    "a": "Blood",
+                    "b": "Sand",
+                    "c": "Washing soda",
+                    "d": "Common salt",
+                    "e": "Common salt"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 219,
+                "question": "Zinc and carbon rods are used as anode and cathode respectively in a",
+                "option": {
+                    "a": "Voltaic cell",
+                    "b": "Lead accumulator",
+                    "c": "Leclanche cell",
+                    "d": "Daniel cell",
+                    "e": "Daniel cell"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2006"
+            },
+            {
+                "id": 251,
+                "question": "The raw material used for the smelting of iron ore in a furnace is",
+                "option": {
+                    "a": "Zn(NO3)2",
+                    "b": "CaSO4",
+                    "c": "CuSO4",
+                    "d": "CaCO3",
+                    "e": "CaCO3"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2006"
+            },
+            {
+                "id": 265,
+                "question": "Moving from left to right across a period, the general rise in the first ionization energy can be attributed to the",
+                "option": {
+                    "a": "Increase in nuclear charge",
+                    "b": "Decrease in screening effect",
+                    "c": "Increase in screening effect",
+                    "d": "Decrease in nuclear charge",
+                    "e": "Decrease in nuclear charge"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 12,
+                "question": "Pure solvents are obtained by",
+                "option": {
+                    "a": "Distillation",
+                    "b": "Condensation",
+                    "c": "Extraction",
+                    "d": "EvapopraTION",
+                    "e": "EvapopraTION"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2001"
+            },
+            {
+                "id": 16,
+                "question": "Phosphorous is stored under water to precvent it from",
+                "option": {
+                    "a": "Dehydrating",
+                    "b": "Becoming inert",
+                    "c": "Smelling",
+                    "d": "Catching fire",
+                    "e": "Catching fire"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2001"
+            },
+            {
+                "id": 100,
+                "question": "In the electrolysis of a concentrated solution of sodium chloride using inert electrodes, which of the following ions are discharged at the cathode and anode respectively",
+                "option": {
+                    "a": "Na+ and Cl-",
+                    "b": "Na+ and OH-",
+                    "c": "H+ and OH-",
+                    "d": "H+ and Cl-",
+                    "e": "H+ and Cl-"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2003"
+            },
+            {
+                "id": 38,
+                "question": "A characteristic reaction of the compounds with the general formula CnH2n is",
+                "option": {
+                    "a": "Esterification",
+                    "b": "Polymerization",
+                    "c": "Decarboxylation",
+                    "d": "Substitution",
+                    "e": "Substitution"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2001"
+            },
+            {
+                "id": 45,
+                "question": "Which of the following gases contains the least number of atoms at s.t.p",
+                "option": {
+                    "a": "4 moles of chlorine",
+                    "b": "3 moles of ozone",
+                    "c": "1 mole of butane",
+                    "d": "7 moles of argon",
+                    "e": "7 moles of argon"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2002"
+            },
+            {
+                "id": 185,
+                "question": "The density of a certain gas is 1.98g dm-3 at s.t.p. What is the molecular mass of the gas   [Molar volume of a gas at s.t.p = 22.4dm-3]",
+                "option": {
+                    "a": "26.0g",
+                    "b": "31.0g",
+                    "c": "54.0g",
+                    "d": "44.0g",
+                    "e": "44.0g"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2005"
+            },
+            {
+                "id": 289,
+                "question": "Which of the following is used as a rocket fuel",
+                "option": {
+                    "a": "CH3COOH",
+                    "b": "H2SO4",
+                    "c": "HCL",
+                    "d": "HNO3",
+                    "e": "HNO3"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 124,
+                "question": "A chemical reaction is always associated with",
+                "option": {
+                    "a": "An increase in the composition of one of the substances",
+                    "b": "A change in the volume of the reactants",
+                    "c": "A change in the nature of the reactants",
+                    "d": "The formation of new substances",
+                    "e": "The formation of new substances"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2004"
+            },
+            {
+                "id": 298,
+                "question": "Which of the following is used to hasten the ripening of fruit",
+                "option": {
+                    "a": "Ethanol",
+                    "b": "Ethyne",
+                    "c": "Ethane",
+                    "d": "Ethane",
+                    "e": "Ethane"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 293,
+                "question": "Stainless steel is used for making",
+                "option": {
+                    "a": "Tools",
+                    "b": "Coins and medals",
+                    "c": "Moving parts of clocks",
+                    "d": "Magnets",
+                    "e": "Magnets"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 47,
+                "question": "The formula CH2O for ethanoic acid is regarded as its",
+                "option": {
+                    "a": "General formula",
+                    "b": "Structural formula",
+                    "c": "Molecular formula",
+                    "d": "Empirical formula",
+                    "e": "Empirical formula"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2002"
+            },
+            {
+                "id": 64,
+                "question": "A gas X diffuses twice as fast as gas Y under the same conditions. If the relative molecular mass of X is 28. Calculate the relative molecular mass of Y",
+                "option": {
+                    "a": "120",
+                    "b": "14",
+                    "c": "56",
+                    "d": "112",
+                    "e": "112"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2002"
+            },
+            {
+                "id": 131,
+                "question": "The shape of the s-orbital is",
+                "option": {
+                    "a": "Spherical",
+                    "b": "Elliptical",
+                    "c": "Spiral",
+                    "d": "Circular",
+                    "e": "Circular"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2004"
+            },
+            {
+                "id": 75,
+                "question": "What volume of oxygen is produced from the decomposition of 2 moles of KClO3 at s.t.p   [Molar volume of a gas at s.t.p = 22.4 dm3]",
+                "option": {
+                    "a": "22.4 dm3",
+                    "b": "33.6 dm3",
+                    "c": "44.8 dm3",
+                    "d": "67.2 dm3",
+                    "e": "67.2 dm3"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2003"
+            },
+            {
+                "id": 283,
+                "question": "What quantity of aluminum is deposited when a current of 10A is passed through a solution of an aluminum salt for 1930s  {AI = 27, F = 96500 C mol-}",
+                "option": {
+                    "a": "1.8g",
+                    "b": "5.4g",
+                    "c": "14.2g",
+                    "d": "0.2g",
+                    "e": "0.2g"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 144,
+                "question": "Which of the following acts as both a reducing and an oxidizing agent",
+                "option": {
+                    "a": "H2",
+                    "b": "SO2",
+                    "c": "H2S",
+                    "d": "CO2",
+                    "e": "CO2"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2004"
+            },
+            {
+                "id": 246,
+                "question": "Which of the following results in the fall of acid rain",
+                "option": {
+                    "a": "Gaseous hydrocarbons",
+                    "b": "Oxide of lead",
+                    "c": "Particulate matter",
+                    "d": "Oxides of sulphur",
+                    "e": "Oxides of sulphur"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2006"
+            }
+        ]
+    }
+]

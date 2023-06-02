@@ -1,0 +1,42 @@
+[
+    {
+        "error": "Something strange just happened",
+        "status": 406,
+        "hint": {
+            "message-1": "This is the list of supported subjects.",
+            "Subjects": {
+                "0": "english",
+                "1": "mathematics",
+                "2": "commerce",
+                "3": "accounting",
+                "4": "biology",
+                "5": "physics",
+                "6": "chemistry",
+                "7": "englishlit",
+                "8": "government",
+                "9": "crk",
+                "10": "geography",
+                "11": "economics",
+                "12": "irk",
+                "13": "civiledu",
+                "14": "insurance",
+                "15": "currentaffairs",
+                "16": "history"
+            },
+            "message-2": "Supported exam types.",
+            "Exams": {
+                "0": "waec",
+                "1": "jamb",
+                "2": "neco",
+                "3": "post-utme"
+            },
+            "message-3": "Query samples.",
+            "Queries": {
+                "0": "https:\\/\\/questions.aloc.com.ng\\/api\\/q?subject=english",
+                "1": "https:\\/\\/questions.aloc.com.ng\\/api\\/q?subject=english&year=2010",
+                "2": "https:\\/\\/questions.aloc.com.ng\\/api\\/q?subject=insurance&type=wassce",
+                "3": "https:\\/\\/questions.aloc.com.ng\\/api\\/q?subject=english&year=2009&type=utme"
+            }
+        }
+    }
+]

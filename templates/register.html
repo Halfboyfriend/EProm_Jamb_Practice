@@ -1,0 +1,59 @@
+{%extends "base.html"%}
+{%include "header.html"%}
+{%import 'bootstrap/wtf.html' as wtf%}
+
+
+{%block title%} Register
+{%endblock%}
+
+
+{%block content%}
+
+<div id="content" class="p-4 p-md-5 pt-5 text-center" class="login">
+<div style="margin-top: 100px; padding: 10px; max-width: 500px;">
+    <h2 class="text-primary f-5 "><i class="fa fa-book mr-2"></i>JoinStudy</h2>
+
+
+    {%with messages = get_flashed_messages()%}
+    {%if messages%}
+    {%for msg in messages%}
+
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>{{msg}}</strong>
+        
+      </div>
+
+    {%endfor%}
+    {%endif%}
+    {%endwith%}
+   
+    <form action="{{url_for('register')}}" method="post" class="p-3">
+       
+  
+        {{form.csrf_token}}
+        {{form.hidden_tag()}}
+
+        <p>
+            <label for="">{{form.name.label}}</label> {{form.name(placeholder="Full-Name", class='input-size')}}
+           </p>
+        <p>
+            <label for="">{{form.email.label}}</label> {{form.email(placeholder="Email Address", class='input-size')}}
+           </p>
+            <p>
+                <label for="">{{form.password.label}}</label> {{form.password(placeholder="********", class='input-size')}}
+            </p>
+            {{form.submit(class='input-btn')}}
+
+          
+      <br>
+
+      <span class="mt-2">
+          You already have an account? Click <a href="{{url_for('login')}}">here</a> to register.
+      </span>
+    </form>
+</div>
+
+</div>
+{%endblock%}
+
+{%include "footer.html"%}

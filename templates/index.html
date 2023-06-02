@@ -1,0 +1,48 @@
+{%include 'header.html'%}
+{%extends 'base.html' %}
+
+
+{%block title%}Welcome - Home {%endblock%}
+
+{%block content%}
+  <!-- Page Header -->
+
+
+
+  <div id="content" class="p-4 p-md-5 pt-5">
+    <h2 class="mb-4">Welcome To EProm</h2>
+
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, quam minima! Quo vel eaque dignissimos veniam aut sequi error hic.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, quam minima! Quo vel eaque dignissimos veniam aut sequi error hic.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, quam minima! Quo vel eaque dignissimos veniam aut sequi error hic.
+    </p>
+
+    <a href="{{url_for('login')}}" class="btn btn-outline-primary m-1">Login</a>
+    <br>
+    <a href="{{url_for('register')}}" class="btn btn-outline-primary m-1">Register</a>
+
+
+    <div id="about">
+      <h2>About Us</h2>
+
+    </div>
+
+    <div id="contact">
+      <h2>Contact</h2>
+    </div>
+
+  </div>
+  
+
+
+{% include "footer.html" %}
+
+{%endblock%}
+
+
+   

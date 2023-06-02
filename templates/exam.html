@@ -1,0 +1,200 @@
+{%extends "base.html"%}
+{%include "header.html"%}
+{%import 'bootstrap/wtf.html' as wtf%}
+
+
+{%block title%} Practice Test
+{%endblock%}
+
+
+{%block content%}
+
+<div id="content" class="p-4 p-md-5 pt-5 mt-3">
+
+    {%with messages = get_flashed_messages()%}
+    {%if messages%}
+    {%for msg in messages%}
+
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong>{{msg}}</strong>
+        
+      </div>
+
+    {%endfor%}
+    {%endif%}
+    {%endwith%}
+
+    <div>
+        {%if not select%}
+        <h2>Select Your Subjects</h2>
+
+
+        <form action="{{url_for('exam')}}" method="post">
+            {{form.csrf_token}}
+            <div class="row">
+                <div class="col-6">
+                    <label for="Accounting">
+                        <input type="checkbox" id="option1" name="options" value="Accounting">
+                        Accounting
+                      </label><br>
+                      <label for="Agricultural Science">
+                        <input type="checkbox" id="option2" name="options" value="Agricultural Science">
+                        Agricultural Science
+                      </label><br>
+                      <label for=" Arabic">
+                        <input type="checkbox" id="option3" name="options" value=" arabic">
+                        Arabic
+                      </label><br>
+                      <label for="biology">
+                        <input type="checkbox" id="option4" name="options" value="biology">
+                        Biology
+                      </label><br>
+                      <label for="chemistry">
+                        <input type="checkbox" id="option5" name="options" value="chemistry">
+                        Chemistry
+                      </label><br>
+                      <label for="CRK">
+                        <input type="checkbox" id="option6" name="options" value="CRK">
+                        Christian Religious Knowledge (CRK)
+                      </label><br>
+                      <label for="Commerce">
+                        <input type="checkbox" id="option7" name="options" value="commerce">
+                        Commerce
+                      </label><br>
+                      <label for="economics">
+                        <input type="checkbox" id="option8" name="options" value="economics">
+                        Economics
+                      </label><br>
+                      <label for="french">
+                        <input type="checkbox" id="option9" name="options" value="french">
+                        French
+                      </label><br>
+                      <label for="government">
+                        <input type="checkbox" id="option10" name="options" value="government">
+                        Government
+                      </label>
+
+                </div>
+
+
+                <div class="col-6">
+
+                    
+                      <label for="Hausa">
+                        <input type="checkbox" id="option7" name="options" value="Hausa">
+                        Hausa
+                      </label><br>
+                      <label for="History">
+                        <input type="checkbox" id="option8" name="options" value="History">
+                        History
+                      </label><br>
+                      <label for="Igbo">
+                        <input type="checkbox" id="option9" name="options" value="Igbo">
+                        Igbo
+                      </label> <br>
+                      <label for="IRK">
+                        <input type="checkbox" id="option7" name="options" value="IRK">
+                        Islamic Religious Knowledge (IRK)
+                      </label><br>
+                      <label for="Literature-in-English">
+                        <input type="checkbox" id="option8" name="options" value="Literature-in-English">
+                        Literature-in-English
+                      </label><br>
+                      <label for="Mathematics">
+                        <input type="checkbox" id="option9" name="options" value="Mathematics">
+                        Mathematics
+                      </label><br>
+                      <label for="Physics">
+                        <input type="checkbox" id="option8" name="options" value="Physics">
+                        Physics
+                      </label><br>
+                      <label for="Accounts">
+                        <input type="checkbox" id="option9" name="options" value="Accounts">
+                        Principles of Accounts
+                      </label>
+                      <br>
+                      <label for="Yoruba">
+                        <input type="checkbox" id="option8" name="options" value="Yoruba">
+                        Yoruba
+                      </label>
+                    
+                </div>
+            </div>
+          
+         
+          
+          <br><br>
+          <div class="text-center">
+            <input type="submit" value="Get Started" class="btn btn-outline-primary">
+          </div>
+        </form>
+    </div>
+
+    {%endif%}
+
+    {%if select%}
+
+    <div>
+        <h2>Jamb Practice Test</h2>
+        <i>Students took this test</i>
+
+   
+
+        <div>
+            <div class="row">
+                <div class="col-lg-6 py-2">
+                    <i class="fa fa-bars" style="width: 25px; border-radius: 50%; border: 1px solid #007bff; padding: 5px; text-align: center; color: red;"></i> <span style="color: #007bff; font-size: 18px; font-weight: 600;">60</span>
+                    <i>Multiple choice</i>
+                </div>
+                <div class="col-lg-6 py-2">
+                    <i class="fa fa-clock-o" style="width: 25px; border-radius: 50%; border: 1px solid #007bff; padding: 5px; text-align: center; color: red;"></i> <span style="color: #007bff; font-size: 18px; font-weight: 600;">2min</span>
+                    <i>Per Questions</i>
+                </div>
+                <div class="col-lg-g py-2">
+                    <i class="fa fa-certificate" style="width: 25px; border-radius: 50%; border: 1px solid #007bff; padding: 5px; text-align: center; color: red;"></i> <span style="color: #007bff; font-size: 18px; font-weight: 600;">90%</span>
+                    <i>For the badge</i>
+                </div>
+            </div>
+
+            <hr>
+
+            <h4 style="font-weight: bold;">Before you start</h4>
+            <ul>
+                <li>You must complete this test in one session. N.B: Make sure your internet is reliable</li>
+                <li>A mark awarded for a correct answer. No negative marking available for incorrect answer</li>
+                <li>The more you give the correct answer, more chance to win the badge.</li>
+                <li>If you dont earn a badge this time, you can retake the test once more.</li>
+            </ul>
+
+            <h5 class="text-center">ALL THE BEST!!</h5>
+
+            <hr>
+
+            <div class="text-center">
+               <form action="{{url_for('ongoing_exam')}}" method="post">
+                {{form.csrf_token}}
+                <input type="submit" value="Start Test" class="btn btn-outline-primary">
+               </form>
+            </div>
+            
+
+        </div>
+    </div>
+
+    {%endif%}
+
+
+</div>
+{%endblock%}
+
+{%include "footer.html"%}
+
+
+
+
+
+
+
+
+
+

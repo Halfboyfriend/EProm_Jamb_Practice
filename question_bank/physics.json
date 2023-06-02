@@ -1,0 +1,689 @@
+[
+    {
+        "subject": "physics",
+        "status": 200,
+        "total": 40,
+        "data": [
+            {
+                "id": 101,
+                "question": "An object is said to be in simple harmonic motion (SHM) if  ",
+                "option": {
+                    "a": "the acceleration is directly proportional to the displacement and is directed towards the equilibrium position of the object. ",
+                    "b": "the acceleration is inversely proportional to the displacement and directed toward the equilibrium position  of the object  ",
+                    "c": "the displacement is directly proportional  to the momentum  and directed toward the equilibrium position of  the object ",
+                    "d": "the momentum is directly proportional to the displacement and directed toward the equilibrium position of the object.",
+                    "e": "the momentum is directly proportional to the displacement and directed toward the equilibrium position of the object."
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2011"
+            },
+            {
+                "id": 24,
+                "question": "A body is projected from the earth\u2019s surface with the hope of letting it escape from the earth gravitational field. What is the minimum escape velocity?  [Earth\u2019s radius = 6.4 x 103km, g = 10 ms-2]",
+                "option": {
+                    "a": "11.3kms-1 ",
+                    "b": "13.3kms-1 ",
+                    "c": "12.3kms-1 ",
+                    "d": "14.3kms-1 ",
+                    "e": "14.3kms-1 "
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2007"
+            },
+            {
+                "id": 26,
+                "question": "The energy contained in wire when it is extended by 0.02m by a force 500N is ",
+                "option": {
+                    "a": "104J ",
+                    "b": "103J ",
+                    "c": "10J ",
+                    "d": "5J",
+                    "e": "5J"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2007"
+            },
+            {
+                "id": 115,
+                "question": "A uniform meter rule AB has a mass 15g. A 30g mass is suspended at the 10.0cm mark, and another 5g mass is suspended at the 65.0cm mark. Calculate the position of the fulcrum that will keep the meter rule balanced horizontally ",
+                "option": {
+                    "a": "50.0cm ",
+                    "b": "32.0cm ",
+                    "c": "27.5cm ",
+                    "d": "17.9cm ",
+                    "e": "17.9cm "
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2012"
+            },
+            {
+                "id": 47,
+                "question": "If the force on a charge of 0.2 Coulomb in an electric field is 4N, then electric intensity of the field is ",
+                "option": {
+                    "a": "0.8",
+                    "b": "0.8N\\/C  ",
+                    "c": "20.0 N\\/C ",
+                    "d": "4.2 N\\/C ",
+                    "e": "4.2 N\\/C "
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2009"
+            },
+            {
+                "id": 18,
+                "question": "The half-life of a radioactive element is 9 days. What fraction of atoms has decayed in 36 days? ",
+                "option": {
+                    "a": "16-Jan",
+                    "b": "\u00bc ",
+                    "c": " \u00bd ",
+                    "d": "15\\/16",
+                    "e": "15\\/16"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2006"
+            },
+            {
+                "id": 76,
+                "question": "An air bubble at the bottom of a lake has a volume of 20cm3, pressure of 4.9Pa, and temperature 4oc the bubble rises to the surface where the temperature is 20oc and the pressure 1.0Pa. Find the volume as the bubble reaches the surface. (take 1 atm = 1.0 x 105 N\\/m2) ",
+                "option": {
+                    "a": "124cm3 ",
+                    "b": "319cm3 ",
+                    "c": "60cm3 ",
+                    "d": "104 cm3",
+                    "e": "104 cm3"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 39,
+                "question": "The electromagnetic waves that are sensitive to temperature changes are",
+                "option": {
+                    "a": "ultra-violet rays ",
+                    "b": "Gamma rays ",
+                    "c": "infrared-rays ",
+                    "d": "X-rays",
+                    "e": "X-rays"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2007"
+            },
+            {
+                "id": 37,
+                "question": "It is known that an atomic nucleus comprises of positive charged protons. Which of the following also exist in the nucleus? ",
+                "option": {
+                    "a": "a beta particle ",
+                    "b": "an Alpha particle ",
+                    "c": "A neutron ",
+                    "d": "An electron",
+                    "e": "An electron"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2007"
+            },
+            {
+                "id": 61,
+                "question": "The product PV where P is pressure and V is a volume has the same unit as ",
+                "option": {
+                    "a": "force ",
+                    "b": "power ",
+                    "c": "energy ",
+                    "d": "acceleration ",
+                    "e": "acceleration "
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2009"
+            },
+            {
+                "id": 67,
+                "question": "Which of the following phenomena cannot be explained by the molecular theory of matter? ",
+                "option": {
+                    "a": "evaporation ",
+                    "b": "expansion ",
+                    "c": "conduction ",
+                    "d": "radiation",
+                    "e": "radiation"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 88,
+                "question": "Which of the following is not true about an object that is projected upwards at angle \u03b8? ",
+                "option": {
+                    "a": "the velocity is maximum at the maximum height ",
+                    "b": "the acceleration along the horizontal direction is zero ",
+                    "c": "the maximum range (Rmax) for an object moving with speed u is given by u2\\/g ",
+                    "d": "the time it takes to get the maximum height is equal to the time it takes to come back to the point of projection",
+                    "e": "the time it takes to get the maximum height is equal to the time it takes to come back to the point of projection"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 7,
+                "question": "\u00a0 An electric kettle with negligible heat capacity is rated at 2000W, if 2.0kg of water is put in it, how long will it take temperature of water to rise from 20oC to 100oC? (specific heat capacity of water = 4200J\\/Kg-1K-1) ",
+                "option": {
+                    "a": "336s ",
+                    "b": "240s ",
+                    "c": " 168s ",
+                    "d": "84s",
+                    "e": "84s"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2006"
+            },
+            {
+                "id": 126,
+                "question": "To use a milli-ammeter to measure current up to 10A, what connection needs to be made?",
+                "option": {
+                    "a": "A small resistance must be connected in parallel with the milli-ammeter ",
+                    "b": "A small resistance must be connected in series with the milli-ammeter ",
+                    "c": "A high resistance must be connected in parallel with the milli-ammeter ",
+                    "d": "The milli-ammeter must be disconnected from the circuit.",
+                    "e": "The milli-ammeter must be disconnected from the circuit."
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2012"
+            },
+            {
+                "id": 52,
+                "question": "Radio waves have the velocity of 3 x 108ms-1. If a radio station sends out a broadcast on a frequency 800kHz, what is the wavelength of the broadcast? ",
+                "option": {
+                    "a": "375.0m ",
+                    "b": "267.0m ",
+                    "c": "240.0m ",
+                    "d": "37.5m ",
+                    "e": "37.5m "
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2009"
+            },
+            {
+                "id": 90,
+                "question": "Which of the following statements is not true about a body performing simple harmonic motion? ",
+                "option": {
+                    "a": "the linear speed is the product of the angular speed and the radius or amplitude ",
+                    "b": "the linear acceleration is the product of the square of the angular speed and the displacement ",
+                    "c": "frequency is the number of complete revolution per second made by a vibrating body ",
+                    "d": "the S.I unit of amplitude is Hertz (Hz)",
+                    "e": "the S.I unit of amplitude is Hertz (Hz)"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 62,
+                "question": "The force with which an object is attracted to the earth is called ",
+                "option": {
+                    "a": "acceleration ",
+                    "b": "mass ",
+                    "c": "gravity ",
+                    "d": "weight",
+                    "e": "weight"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2009"
+            },
+            {
+                "id": 102,
+                "question": "A wheel and axle is used to raise a weight of 600n with an effort of 300n. if the radii of the wheel and axle are 50 cm and 10 cm respectively, what is the efficiency of the system      ",
+                "option": {
+                    "a": "40%",
+                    "b": "50%",
+                    "c": "20%",
+                    "d": "10%",
+                    "e": "10%"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2011"
+            },
+            {
+                "id": 34,
+                "question": "An air column 10cm in length is trapped into the sealed end of a capillary tube by a 15cm column of mercury with the tube held vertically. On inverting the tube, the air column becomes 15cm long, what is the atmospheric pressure during the experiment? ",
+                "option": {
+                    "a": "76cm ",
+                    "b": "75cm ",
+                    "c": "60cm ",
+                    "d": "70cm",
+                    "e": "70cm"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2007"
+            },
+            {
+                "id": 128,
+                "question": "Five 100-Watt bulbs are put on for 45days during which the home-owner is on vacation. If 1kW-hour of electricity cost N7.50, how much does it cost the home-owner? ",
+                "option": {
+                    "a": "N168.75  ",
+                    "b": "N90.0  ",
+                    "c": "N4050.00  ",
+                    "d": "N810.00",
+                    "e": "N810.00"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2012"
+            },
+            {
+                "id": 85,
+                "question": "Which of the following about electrolysis is false? ",
+                "option": {
+                    "a": "liquid that conduct electricity and are split up chemically by the current are electrolyzed",
+                    "b": "the current into the electrolyte by the anode ",
+                    "c": "the current is taken away from the electrolyte by the cathode ",
+                    "d": "the container which holds the electrolyte and the electrode is the voltmeter",
+                    "e": "the container which holds the electrolyte and the electrode is the voltmeter"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 25,
+                "question": "A uniform rod PQ of mass 2kg and length of 1m is pivoted at the end P, if a load of 14N is placed at the centre, find the force that should be applied vertically upwards at Q to maintain the rod in equilibrium ",
+                "option": {
+                    "a": "7N ",
+                    "b": "28N ",
+                    "c": "68N ",
+                    "d": "17N",
+                    "e": "17N"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2007"
+            },
+            {
+                "id": 35,
+                "question": "An electric cell has an internal resistance of 2\u03a9. A current of 0.5A was measured when a resistor of resistance 5\u03a9 was connected across it. Determine the electromotive force of the cell",
+                "option": {
+                    "a": "3.5V ",
+                    "b": "2.5V ",
+                    "c": "4.5V ",
+                    "d": "2.35V",
+                    "e": "2.35V"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2007"
+            },
+            {
+                "id": 17,
+                "question": "Which of the following radiations cannot be deflected by an electric field or ",
+                "option": {
+                    "a": "(i) and (ii) only ",
+                    "b": "(ii) only ",
+                    "c": "(iii) and (iv) only ",
+                    "d": "(i) and (iii) only",
+                    "e": "(i) and (iii) only"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2006"
+            },
+            {
+                "id": 53,
+                "question": "The mode of heat transfer which does not require material medium is",
+                "option": {
+                    "a": "conduction ",
+                    "b": "radiation ",
+                    "c": "convection ",
+                    "d": "propagation",
+                    "e": "propagation"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2009"
+            },
+            {
+                "id": 33,
+                "question": "The period of a simple pendulum will increase by what factor of its extensible length increased by a factor of four ",
+                "option": {
+                    "a": "2",
+                    "b": "4",
+                    "c": "2",
+                    "d": "\u00bc",
+                    "e": "\u00bc"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2007"
+            },
+            {
+                "id": 123,
+                "question": "The process by which solid change directly to vapour is called ",
+                "option": {
+                    "a": "Evaporation",
+                    "b": "Fusion ",
+                    "c": "Condensation ",
+                    "d": "Sublimation ",
+                    "e": "Sublimation "
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2012"
+            },
+            {
+                "id": 71,
+                "question": "\u00a0 A long-jumper leaves the ground at an angle of 20o above the horizontal and at speed of 11m\\/s. How far does it jumps in the horizontal direction? ",
+                "option": {
+                    "a": "0.384m ",
+                    "b": "7.94m ",
+                    "c": "8.45m ",
+                    "d": "5m",
+                    "e": "5m"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 13,
+                "question": "Light wave and ripples of water are similar because both",
+                "option": {
+                    "a": "are longitudinal waves ",
+                    "b": "have the same velocity ",
+                    "c": "can be diffracted and refracted ",
+                    "d": "have the same frequency ",
+                    "e": "have the same frequency "
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2006"
+            },
+            {
+                "id": 117,
+                "question": "A ship sinks to the bottom of a 250m deep lake. The atmospheric pressure over the lake is 1.03 x 105 Pa. Taking the density of water in the lake to be 1000 kg\\/m3, calculate the pressure exerted on the boat. [acceleration due to gravity = 10 m\\/s2] ",
+                "option": {
+                    "a": "2.60 x 106Pa  ",
+                    "b": "2.50 x 106Pa ",
+                    "c": "2.60 x 105Pa ",
+                    "d": "1.03 x 105Pa",
+                    "e": "1.03 x 105Pa"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2012"
+            },
+            {
+                "id": 69,
+                "question": "If 21g of alcohol of density 0.7gcm-3 is mixed with 10g of water, what would be the density of the resulting mixture? ",
+                "option": {
+                    "a": "780gcm-3 ",
+                    "b": "0.78gcm-3 ",
+                    "c": "30gcm-3 ",
+                    "d": "10gcm-3",
+                    "e": "10gcm-3"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 23,
+                "question": "A box of mass 40kg is being dragged  along by the rope inclined at 60o to the horizontal. The frictional force between the box and the floor is 100N and the tension on the rope is 300N. How much work is done in dragging the box through a distance of 4m? ",
+                "option": {
+                    "a": "680J ",
+                    "b": "200J ",
+                    "c": "100J ",
+                    "d": "400J",
+                    "e": "400J"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2007"
+            },
+            {
+                "id": 121,
+                "question": "Which of the following quantities is equal to the area under a velocity-time graph?",
+                "option": {
+                    "a": "Acceleration ",
+                    "b": "Distance travelled ",
+                    "c": "Average Velocity of motion ",
+                    "d": "Total time taken.",
+                    "e": "Total time taken."
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2012"
+            },
+            {
+                "id": 116,
+                "question": "rectangular block measures 40cm x 25cm and made of material of density 7800kg\\/m3. Calculate the pressure the block exerts on the floor when it stands on the smallest of its surfaces ",
+                "option": {
+                    "a": "3.12 x 103N\\/m2 ",
+                    "b": "3.90 x 103N\\/m2 ",
+                    "c": "1.9 x 104N\\/m2 ",
+                    "d": "3.12 x 104N\\/m2",
+                    "e": "3.12 x 104N\\/m2"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2012"
+            },
+            {
+                "id": 14,
+                "question": "Three 4\u03a9 resistors were connected in series by Tola, while Ade connected the ",
+                "option": {
+                    "a": "1:02",
+                    "b": "1:09",
+                    "c": "1:10",
+                    "d": "1:15",
+                    "e": "1:15"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2006"
+            },
+            {
+                "id": 113,
+                "question": "Two plane mirrors are inclined at angle 45 to another. A ray of light has incident angle of 20 at the surface of the first mirror. The reflected ray is then incident on the second mirror. Calculate the angle of reflection at the second mirror ",
+                "option": {
+                    "a": "65",
+                    "b": "45",
+                    "c": "25",
+                    "d": "20",
+                    "e": "20"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2012"
+            },
+            {
+                "id": 32,
+                "question": "The temperature at which the water vapour in the air saturates the air and begins to condense is",
+                "option": {
+                    "a": "melting point ",
+                    "b": "triple point ",
+                    "c": "dew point ",
+                    "d": "melting point",
+                    "e": "melting point"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2007"
+            },
+            {
+                "id": 125,
+                "question": "A 3.0cm object is placed 12.0cm in front of bi-convex lens of focal length 8.0cm. Calculate the height of the image of the object.  ",
+                "option": {
+                    "a": "3.0cm ",
+                    "b": "6.0cm ",
+                    "c": "12.0cm ",
+                    "d": "24.0cm",
+                    "e": "24.0cm"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2012"
+            },
+            {
+                "id": 4,
+                "question": "If M and R are the mass and radius of the earth respectively and G is the universal gravitational constant, the earth\u2019s gravitational potential at an altitude H above the ground level is: ",
+                "option": {
+                    "a": "A.-GM\\/H ",
+                    "b": "\u2013GM\\/(R+H) ",
+                    "c": "C. -GM\\/2H ",
+                    "d": "D. \u2013GM\\/(R-H)",
+                    "e": "D. \u2013GM\\/(R-H)"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2006"
+            },
+            {
+                "id": 58,
+                "question": "The resistance of a 5m uniform wire of cross sectional area of 0.2 x 106m2 is 0.45. What is the resistivity of the material of the wire ",
+                "option": {
+                    "a": "1.10 x 105 ohms ",
+                    "b": "4.25 x106\u03a9m ",
+                    "c": "2.40 x 107\u03a9m ",
+                    "d": "1.70 x 108\u03a9m ",
+                    "e": "1.70 x 108\u03a9m "
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2009"
+            }
+        ]
+    }
+]

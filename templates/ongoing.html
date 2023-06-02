@@ -1,0 +1,96 @@
+{%extends "base.html"%}
+{%include "header.html"%}
+{%import 'bootstrap/wtf.html' as wtf%}
+
+
+{%block title%} Practice Test
+{%endblock%}
+
+
+{%block content%}
+
+<div id="content" class="p-4 p-md-5 pt-5 mt-3">
+
+    {%with messages = get_flashed_messages()%}
+    {%if messages%}
+    {%for msg in messages%}
+
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong>{{msg}}</strong>
+        
+      </div>
+
+    {%endfor%}
+    {%endif%}
+    {%endwith%}
+
+
+    {%if start%}
+
+    <div>
+        <h2 class="text-center mb-5">Jamb Pratice Test</h2>
+        <i style="float: right; color: red;">Time Left: {{TIMING}} </i>
+
+        <h5 style="font-weight: bold;">Subject: {{DATA_LOG[0]['subject'].title()}}</h5>
+
+        {%with messages = get_flashed_messages()%}
+        {%if messages%}
+        {%for msg in messages%}
+    
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <strong>{{msg}}</strong>
+            
+          </div>
+    
+        {%endfor%}
+        {%endif%}
+        {%endwith%}
+        
+        <div style="max-width: 600px; margin: auto; font-size: 15px; color: #000;">
+            <div class="pt-3">
+                {%for i in range(1, question + 1):%}
+                <p><span style="font-weight: bold;">Question {{i}}:</span> {{DATA_LOG[0]['data'][i]['question']}}</p>
+    
+                <form action="{{url_for('ongoing_exam')}}" method="post">
+                    {{form.csrf_token}}
+                    {%for log in DATA_LOG[0]['data'][i]['option']%}
+                    <input type="radio" name="chosen_answer">{{DATA_LOG[0]['data'][i]['option'][log]}}
+                    <br>
+                {%endfor%}
+
+                <br><br>
+
+                <div style="float: right;">
+                    <input type="submit" value="Next" name="next">
+                </div>
+    
+                {%if i > 1%}
+                <div style="float: left;">
+                    <input type="submit" value="Previous <<">
+                </div>
+                {%endif%}
+                </form>
+                {%endfor%}
+                 </div>
+            </div>
+            
+    
+           
+        </div>
+
+
+        {%endif%}
+</div>
+{%endblock%}
+
+{%include "footer.html"%}
+
+
+
+
+
+
+
+
+
+

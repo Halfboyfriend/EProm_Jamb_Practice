@@ -1,0 +1,689 @@
+[
+    {
+        "subject": "government",
+        "status": 200,
+        "total": 40,
+        "data": [
+            {
+                "id": 157,
+                "question": "The ultimate authority in a State is referred to as  ",
+                "option": {
+                    "a": "president  ",
+                    "b": "sovereignty ",
+                    "c": "legislature  ",
+                    "d": "legitimacy ",
+                    "e": "legitimacy "
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2012"
+            },
+            {
+                "id": 81,
+                "question": "A condition for judicial indolence is the appointment of judges by the  ",
+                "option": {
+                    "a": "civil service commission ",
+                    "b": "judicial service commission ",
+                    "c": "low review constitution ",
+                    "d": " code of conduct Bureau",
+                    "e": " code of conduct Bureau"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2009"
+            },
+            {
+                "id": 142,
+                "question": "The Nigeria-Cameroon crisis over Bakaasi peninsula occurred owning to the interpretation of the Treaty of 1913 and the:",
+                "option": {
+                    "a": "resolution of the OAU ",
+                    "b": "Maroua Accord",
+                    "c": "decision of the ECOWAS Tribunal ",
+                    "d": "decision of the International Court of Justice ",
+                    "e": "decision of the International Court of Justice "
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2011"
+            },
+            {
+                "id": 574,
+                "question": "In the pre-colonial Hausa political system, the Madawaki performed the function of",
+                "option": {
+                    "a": "Minister of Education",
+                    "b": "Minister of Defense",
+                    "c": "Minister of Interior",
+                    "d": "Minister of works",
+                    "e": "Minister of works"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2014"
+            },
+            {
+                "id": 604,
+                "question": "Government refers to all the following, except",
+                "option": {
+                    "a": "an institution of the state",
+                    "b": "the process of ruling a political community",
+                    "c": "the exercise of power and authority",
+                    "d": "the act of civil disobedience.",
+                    "e": "the act of civil disobedience."
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "1988"
+            },
+            {
+                "id": 655,
+                "question": "All the following were frontline fighters for Nigeria\u2019s Independence except",
+                "option": {
+                    "a": "Obafemi Awolowo",
+                    "b": "Nnamdi Azikiwe",
+                    "c": "Lateef Jakande",
+                    "d": "Amino Kano",
+                    "e": "Amino Kano"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "1988"
+            },
+            {
+                "id": 510,
+                "question": "According to Aristotle, a form of government in which the few rule for the benefit of all is",
+                "option": {
+                    "a": "polyarchy",
+                    "b": "diarchy",
+                    "c": "aristocracy",
+                    "d": "autocracy.",
+                    "e": "autocracy."
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2013"
+            },
+            {
+                "id": 429,
+                "question": "The Igbo political system was based on",
+                "option": {
+                    "a": "family ties",
+                    "b": "Umunna",
+                    "c": "Umuada",
+                    "d": "age grades",
+                    "e": "age grades"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 435,
+                "question": "One major weakness of the Independence constitution is that it",
+                "option": {
+                    "a": "gave full powers to the Supreme Court in Nigeria",
+                    "b": "gave total independence to Nigeria",
+                    "c": "empowered Britain to continue to rule",
+                    "d": "failed to provide the country with full sovereignty.",
+                    "e": "failed to provide the country with full sovereignty."
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 516,
+                "question": "The presidential system differs from the parliamentary system of government in that",
+                "option": {
+                    "a": "the tenure of office of the president is limited",
+                    "b": "the principle of collective responsibility applies",
+                    "c": "executive and legislative powers are fused",
+                    "d": "powers of the three arms of government are merged.",
+                    "e": "powers of the three arms of government are merged."
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2013"
+            },
+            {
+                "id": 112,
+                "question": "Herbert Macaulay was the first president of ",
+                "option": {
+                    "a": "NCNC ",
+                    "b": " AG  ",
+                    "c": "UMBC ",
+                    "d": "NEPU",
+                    "e": "NEPU"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 171,
+                "question": "The ten non-permanent members of the security council are elected by the  ",
+                "option": {
+                    "a": "general assembly ",
+                    "b": "trusteeship council  ",
+                    "c": "security council  ",
+                    "d": "economic and social council ",
+                    "e": "economic and social council "
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2012"
+            },
+            {
+                "id": 238,
+                "question": "Traditional rulers appointed by the British to implement indirect rule in Eastern Nigeria were called",
+                "option": {
+                    "a": "palace chiefs",
+                    "b": "village chiefs",
+                    "c": "warrant chiefs",
+                    "d": "crown chiefs",
+                    "e": "crown chiefs"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2000"
+            },
+            {
+                "id": 558,
+                "question": "In a democratic political system, the political sovereign is usually the",
+                "option": {
+                    "a": "constitution",
+                    "b": "political parties",
+                    "c": "electorate",
+                    "d": "legislature",
+                    "e": "legislature"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2014"
+            },
+            {
+                "id": 1,
+                "question": "In which of the following countries is governmental powers most fused? ",
+                "option": {
+                    "a": "Nigeria ",
+                    "b": "United States of America ",
+                    "c": "France ",
+                    "d": "Canada",
+                    "e": "Canada"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2006"
+            },
+            {
+                "id": 242,
+                "question": "Checks and balances was a feature of pre-colonial political administration of the",
+                "option": {
+                    "a": "Hausa",
+                    "b": "Yoruba",
+                    "c": "1gbo",
+                    "d": "Fulani",
+                    "e": "Fulani"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2000"
+            },
+            {
+                "id": 150,
+                "question": "Laws made by local governments are called  ",
+                "option": {
+                    "a": "Acts of Parliament ",
+                    "b": "Local Government Acts ",
+                    "c": "Bye-laws  ",
+                    "d": "Local Government Decrees ",
+                    "e": "Local Government Decrees "
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2012"
+            },
+            {
+                "id": 472,
+                "question": "The right of citizens to participate in the affairs of government of their country is called",
+                "option": {
+                    "a": "economic right",
+                    "b": "civil right",
+                    "c": "political right",
+                    "d": "social light.",
+                    "e": "social light."
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2012"
+            },
+            {
+                "id": 292,
+                "question": "A constitution that requires stringent procedures for amendment is termed ___ constitution.",
+                "option": {
+                    "a": "federal",
+                    "b": "flexible",
+                    "c": "rigid",
+                    "d": "unitary",
+                    "e": "unitary"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "neco",
+                "examyear": "2013"
+            },
+            {
+                "id": 665,
+                "question": "The judicial organ of government is the body which",
+                "option": {
+                    "a": "implements the law",
+                    "b": "makes the law",
+                    "c": "punishes lawmakers",
+                    "d": "interprets the law",
+                    "e": "interprets the law"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "1989"
+            },
+            {
+                "id": 548,
+                "question": "Which of the following countries pioneered the establishment of ECOWAS alongside Nigeria?",
+                "option": {
+                    "a": "Cameroun.",
+                    "b": "Ghana.",
+                    "c": "Togo.",
+                    "d": "Algeria.",
+                    "e": "Algeria."
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2013"
+            },
+            {
+                "id": 544,
+                "question": "The Provisional Ruling Council was the highest ruling body during the regime of",
+                "option": {
+                    "a": "Sani Abacha",
+                    "b": "Muhammadu Buhari",
+                    "c": "Ibrahim Babangida",
+                    "d": "Murtala Muhammed.",
+                    "e": "Murtala Muhammed."
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2013"
+            },
+            {
+                "id": 442,
+                "question": "The main purpose of establishing public enterprises in Nigeria is to",
+                "option": {
+                    "a": "enrich the elite",
+                    "b": "provide essential services",
+                    "c": "compete with the private sector",
+                    "d": "increase government revenue",
+                    "e": "increase government revenue"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 297,
+                "question": "How many members of the security council of the United Nations (UN) exercise veto power?",
+                "option": {
+                    "a": "Eight",
+                    "b": "Five",
+                    "c": "Four",
+                    "d": "Six",
+                    "e": "Six"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "neco",
+                "examyear": "2013"
+            },
+            {
+                "id": 108,
+                "question": "One major factor that differentiates the presidential from the parliamentary system is  ",
+                "option": {
+                    "a": "separation of the powers ",
+                    "b": "judicial independence  ",
+                    "c": "passage of bills ",
+                    "d": "party system",
+                    "e": "party system"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 463,
+                "question": "A political system which empowers the leader with the ultimate responsibility to execute laws is",
+                "option": {
+                    "a": "parliamentarianism",
+                    "b": "presidentialism",
+                    "c": "dictatorship",
+                    "d": "autocracy.",
+                    "e": "autocracy."
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2012"
+            },
+            {
+                "id": 376,
+                "question": "Before Nigeria became a republic, the highest body charged with the administration of justice was the",
+                "option": {
+                    "a": "Supreme Court",
+                    "b": "Court of Appeal",
+                    "c": "Privy court",
+                    "d": "High Court",
+                    "e": "High Court"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2016"
+            },
+            {
+                "id": 424,
+                "question": "In theory, one major advantage of the one-party systems is that it",
+                "option": {
+                    "a": "promotes greater mass participation in government",
+                    "b": "serves as an instrument of national integration",
+                    "c": "guarantees social justice",
+                    "d": "eliminates intra-party conflict.",
+                    "e": "eliminates intra-party conflict."
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 598,
+                "question": "The reason behind Nigeria\u2019s suspension from the Commonwealth in 1995 was",
+                "option": {
+                    "a": "legal",
+                    "b": "political",
+                    "c": "economic",
+                    "d": "socio-cultural",
+                    "e": "socio-cultural"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2014"
+            },
+            {
+                "id": 391,
+                "question": "Judges in Nigeria enjoy security of tenure",
+                "option": {
+                    "a": "if they are appointed by the president",
+                    "b": "if they have the support of the Nigerian Bar Association",
+                    "c": "if they are of good behaviour",
+                    "d": "during the life of the government which appoints them",
+                    "e": "during the life of the government which appoints them"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2016"
+            },
+            {
+                "id": 485,
+                "question": "Members of the Senate in Nigeria\u2019s First Republic were",
+                "option": {
+                    "a": "elected directly by the people",
+                    "b": "elected by electoral college",
+                    "c": "nominated by regional and federal governments",
+                    "d": "nominated by the president of the house.",
+                    "e": "nominated by the president of the house."
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2012"
+            },
+            {
+                "id": 113,
+                "question": "A special election organized to decide on a political issue is known as ",
+                "option": {
+                    "a": "plebiscite ",
+                    "b": "by-election  ",
+                    "c": "general election ",
+                    "d": "primary election.",
+                    "e": "primary election."
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 206,
+                "question": "A federal state is always expensive to run because",
+                "option": {
+                    "a": "every parliamentarian wants to become rich",
+                    "b": "government departments are duplicated",
+                    "c": "judges are highly paid from the consolidated fund.",
+                    "d": "maintenance of the army involves high expenditure.",
+                    "e": "maintenance of the army involves high expenditure."
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2000"
+            },
+            {
+                "id": 335,
+                "question": "Which of the following parties formed the opposition in the House of Representatives during Nigeria\u2019s First Republic?",
+                "option": {
+                    "a": "AG and UMBC",
+                    "b": "NCNC AND NEPU",
+                    "c": "NPC and NNDP",
+                    "d": "NCNC and AG",
+                    "e": "NCNC and AG"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "1999"
+            },
+            {
+                "id": 537,
+                "question": "The party system practiced in Nigeria\u2019s Third Republic was",
+                "option": {
+                    "a": "multi-party",
+                    "b": "two-party",
+                    "c": "zero-party",
+                    "d": "one-party.",
+                    "e": "one-party."
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2013"
+            },
+            {
+                "id": 82,
+                "question": "The minorities  Commission appointed in Nigeria in 1957 recommended that ",
+                "option": {
+                    "a": "More states should be create in the federation ",
+                    "b": "No more states should created before independence ",
+                    "c": "Nigeria should revert to a unitary structure ",
+                    "d": "The legislature  should legislature should legislature for the minority areas ",
+                    "e": "The legislature  should legislature should legislature for the minority areas "
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2009"
+            },
+            {
+                "id": 124,
+                "question": "A human community that is usually cohesive and homogeneous is ",
+                "option": {
+                    "a": "state ",
+                    "b": "kinship",
+                    "c": "clan",
+                    "d": "Nation.",
+                    "e": "Nation."
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2011"
+            },
+            {
+                "id": 533,
+                "question": "Under the 1979 Constitution, statutory allocation of revenue to local government councils is the responsibility of the",
+                "option": {
+                    "a": "Council of State",
+                    "b": "Houses of Assembly",
+                    "c": "National Economic Council",
+                    "d": "Federal Legislature.",
+                    "e": "Federal Legislature."
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2013"
+            },
+            {
+                "id": 271,
+                "question": "Which of these is a feature of Nigeria federalism?",
+                "option": {
+                    "a": "Conflict of authority does not arise",
+                    "b": "Minority groups are equally benefited",
+                    "c": "Parliamentary supremacy",
+                    "d": "Secession is constitutionally forbidden",
+                    "e": "Secession is constitutionally forbidden"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "neco",
+                "examyear": "2013"
+            },
+            {
+                "id": 528,
+                "question": "Under the emirate system, the commander of the army is the",
+                "option": {
+                    "a": "Alkali",
+                    "b": "Hakimi",
+                    "c": "Sarkin Fada",
+                    "d": "Madawaki.",
+                    "e": "Madawaki."
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2013"
+            }
+        ]
+    }
+]

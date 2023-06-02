@@ -1,0 +1,21 @@
+.fa-book {
+    color: #007bff;
+    font-size: xx-large;
+}
+h2{
+    font-size: 30px;
+    font-weight: 700;
+    
+}
+.input-size, .input-btn{
+    width: 300px;
+    padding: 7px;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+}
+.input-btn{
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 15px;
+}

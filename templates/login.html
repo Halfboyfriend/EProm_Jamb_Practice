@@ -1,0 +1,39 @@
+{%extends "base.html"%}
+{%include "header.html"%}
+
+
+{%block title%} Login
+{%endblock%}
+
+
+{%block content%}
+
+<div id="content" class="p-4 p-md-5 pt-5 text-center" class="login">
+<div style="margin-top: 100px; padding: 10px; ">
+    <h2 class="text-primary f-5 "><i class="fa fa-book mr-2"></i>GetStudy</h2>
+
+
+    <form action="{{url_for('login')}}" method="post" class="p-3">
+        {{form.hidden_tag()}}
+  
+        {{form.csrf_token}}
+        <p>
+            <label for="">{{form.email.label}}</label> {{form.email(placeholder="Email Address", class='input-size')}}
+           </p>
+            <p>
+                <label for="">{{form.password.label}}</label> {{form.password(placeholder="********", class='input-size')}}
+            </p>
+            {{form.submit(class='input-btn')}}
+
+          
+      </form>
+
+      <span class="mt-2">
+          You don't have an account? Click <a href="{{url_for('register')}}">here</a> to register.
+      </span>
+</div>
+    </form>
+</div>
+{%endblock%}
+
+{%include "footer.html"%}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Countdown</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            var duration =  1800 ;
+            var endTime = Math.floor(Date.now() / 1000) + duration;
+
+            function updateRemainingTime() {
+                var currentTime = Math.floor(Date.now() / 1000);
+                var remainingTime = Math.max(0, endTime - currentTime);
+                var minutes = Math.floor(remainingTime / 60);
+                var seconds = remainingTime % 60;
+                var timeString = ("0" + minutes).slice(-2) + ":" + ("0" + seconds).slice(-2);
+                $("#remaining-time").text(timeString);
+
+                if (remainingTime > 0) {
+                    setTimeout(updateRemainingTime, 1000);
+                }
+            }
+
+            updateRemainingTime();
+        });
+    </script>
+</head>
+<body>
+    <h1>Countdown</h1>
+    <p>Time remaining: <span id="remaining-time">{{ get_remaining_time(duration) }}</span></p>
+</body>
+</html>

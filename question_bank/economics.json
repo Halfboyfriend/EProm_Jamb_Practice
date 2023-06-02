@@ -1,0 +1,689 @@
+[
+    {
+        "subject": "economics",
+        "status": 200,
+        "total": 40,
+        "data": [
+            {
+                "id": 243,
+                "question": "Greater inter-dependence among workers in production is associated with",
+                "option": {
+                    "a": "utility",
+                    "b": "manufacturing",
+                    "c": "division of labour",
+                    "d": "factory workers",
+                    "e": "factory workers"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2010"
+            },
+            {
+                "id": 652,
+                "question": "One advantage of international trade is that",
+                "option": {
+                    "a": "countries depend on each other",
+                    "b": "it introduces variation in prices",
+                    "c": "it increases demand for foreign goods",
+                    "d": "it makes variety of goods available",
+                    "e": "it makes variety of goods available"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2007"
+            },
+            {
+                "id": 75,
+                "question": "A characteristic of a debenture is that ",
+                "option": {
+                    "a": "Its yield is based on profit ",
+                    "b": "Its yield is a fixed rate of interest ",
+                    "c": "It has no redemption date ",
+                    "d": "There is a voting when interest is paid ",
+                    "e": "There is a voting when interest is paid "
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2009"
+            },
+            {
+                "id": 478,
+                "question": "The distribution of goods is said to be completed when it reaches the",
+                "option": {
+                    "a": "wholesalers",
+                    "b": "consumers",
+                    "c": "retailers",
+                    "d": "manufacturers",
+                    "e": "manufacturers"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2004"
+            },
+            {
+                "id": 372,
+                "question": "The most popular sizes of dresses and shoes are determined by the",
+                "option": {
+                    "a": "Range",
+                    "b": "mode",
+                    "c": "mean",
+                    "d": "median",
+                    "e": "median"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 178,
+                "question": "If actual reserves in the banking system are #40,000, excess reserves are #10,000, and checkable deposits are #240,000, then the legal reserve requirement is: ",
+                "option": {
+                    "a": "10%",
+                    "b": "12.50%",
+                    "c": "20%",
+                    "d": "5%",
+                    "e": "5%"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 165,
+                "question": "When economics say that people act rationally in their self-interest, they mean that individual: ",
+                "option": {
+                    "a": "look and pursue opportunities to increase their utility ",
+                    "b": "generally disregard the interest of others ",
+                    "c": "are mainly creatures of habit ",
+                    "d": "are unpredictable",
+                    "e": "are unpredictable"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 584,
+                "question": "Advertising expenses would not be necessary under perfect competition because",
+                "option": {
+                    "a": "consumers would have complete knowledge of goods",
+                    "b": "cost of production would be at the maximum level",
+                    "c": ".  \n\tevery firm  would enjoy the benefits of large scale production",
+                    "d": "incomes of the consumers in the community would be high.",
+                    "e": "incomes of the consumers in the community would be high."
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2006"
+            },
+            {
+                "id": 223,
+                "question": "Short-term loans can be sourced from",
+                "option": {
+                    "a": "the central bank",
+                    "b": "development banks",
+                    "c": "mortgage banks",
+                    "d": "commercial banks",
+                    "e": "commercial banks"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2001"
+            },
+            {
+                "id": 493,
+                "question": "The number of people who are qualified to work and who offer themselves for employment are called",
+                "option": {
+                    "a": "migrant labour",
+                    "b": "working population",
+                    "c": "labour turnover",
+                    "d": "mobility of labour",
+                    "e": "mobility of labour"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2004"
+            },
+            {
+                "id": 382,
+                "question": "If commodity X is a by-product of commodity Y, this implies that both commodities are",
+                "option": {
+                    "a": "in competitive supply",
+                    "b": "jointly supplied",
+                    "c": "in composite supply",
+                    "d": "in excess supply",
+                    "e": "in excess supply"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 13,
+                "question": "A drawer of a cheque is the ",
+                "option": {
+                    "a": "person who is to be paid ",
+                    "b": "bank on which the cheque is drawn ",
+                    "c": "person who writes out the cheque ",
+                    "d": "bank official who certifies the payment. ",
+                    "e": "bank official who certifies the payment. "
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2006"
+            },
+            {
+                "id": 99,
+                "question": "Basic economic problems of society include the following except:  ",
+                "option": {
+                    "a": "what to produce",
+                    "b": "how to produce ",
+                    "c": "where to produce  ",
+                    "d": "for whom to produce ",
+                    "e": "for whom to produce "
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2011"
+            },
+            {
+                "id": 483,
+                "question": "The market structure in which the operators are many and none of them can influence the price is",
+                "option": {
+                    "a": "imperfect market",
+                    "b": "perfect market",
+                    "c": "oligopolistic market",
+                    "d": "stock market",
+                    "e": "stock market"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2004"
+            },
+            {
+                "id": 489,
+                "question": "The market consisting  of  a  network  of  dealers  where \tcurrencies can be bought and sold is known as",
+                "option": {
+                    "a": "capital market",
+                    "b": "foreign exchange market",
+                    "c": "commodity market",
+                    "d": "the stock market",
+                    "e": "the stock market"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2004"
+            },
+            {
+                "id": 455,
+                "question": "Governments of West African countries levy taxes to",
+                "option": {
+                    "a": "prevent prices from falling",
+                    "b": "make people richer",
+                    "c": "limit the number of banks",
+                    "d": "finance government projects",
+                    "e": "finance government projects"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2003"
+            },
+            {
+                "id": 129,
+                "question": "Normal profit means;  ",
+                "option": {
+                    "a": "All the accountant cost are covered but not all the economist cost  ",
+                    "b": "All the economist cost are covered but not all the accountant cost  ",
+                    "c": "More than economist cost are covered  ",
+                    "d": "None of the economist and Accountant costs is covered ",
+                    "e": "None of the economist and Accountant costs is covered "
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2012"
+            },
+            {
+                "id": 376,
+                "question": "Consumer surplus tends to be higher when demand is",
+                "option": {
+                    "a": "perfectly elastic",
+                    "b": "inelastic",
+                    "c": "elastic",
+                    "d": "unitary elastic",
+                    "e": "unitary elastic"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 472,
+                "question": "As a firm expands, it enjoys some advantages called",
+                "option": {
+                    "a": "variable proportions",
+                    "b": "diminishing marginal returns",
+                    "c": "internal economics of scale",
+                    "d": "decreasing returns to scale",
+                    "e": "decreasing returns to scale"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2004"
+            },
+            {
+                "id": 626,
+                "question": "The practice whereby a business is owned by two or more independent firms is termed",
+                "option": {
+                    "a": "indigenization",
+                    "b": "joint venture",
+                    "c": "commercialization",
+                    "d": "foreign investment",
+                    "e": "foreign investment"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2007"
+            },
+            {
+                "id": 462,
+                "question": "It is necessary to estimate the national income of a country because it",
+                "option": {
+                    "a": "indicates the overall performance of the economy",
+                    "b": "ensures equitable distribution of wealth",
+                    "c": "assists investors in identifying profitable ventures",
+                    "d": "enables governments to conserve national resources",
+                    "e": "enables governments to conserve national resources"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2003"
+            },
+            {
+                "id": 416,
+                "question": "Which of the following  is  not  an  advantage  of  tabular presentation of data?",
+                "option": {
+                    "a": "enables easy location of required figures",
+                    "b": "makes for easy comparison of figures",
+                    "c": "occupies more space than mathematical equation",
+                    "d": "shows whether the figures are increasing or decreasing",
+                    "e": "shows whether the figures are increasing or decreasing"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2003"
+            },
+            {
+                "id": 450,
+                "question": "Precautionary motive relates to",
+                "option": {
+                    "a": "demand for money",
+                    "b": "demand for goods",
+                    "c": "supply of money",
+                    "d": "supply of goods",
+                    "e": "supply of goods"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2003"
+            },
+            {
+                "id": 625,
+                "question": "When a firm is nationalized",
+                "option": {
+                    "a": "former owners are removed without compensation",
+                    "b": "it has the right to draw on state funds for capital investment",
+                    "c": "it must break even within a specified period",
+                    "d": "workers take control of the firm",
+                    "e": "workers take control of the firm"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2007"
+            },
+            {
+                "id": 619,
+                "question": "The demand for beans in bags is given by the function Q - 36 + 0.4P = 0. Where P is price in Naira and Q is quantity, find Q when P = 20 Naira.",
+                "option": {
+                    "a": "12 bags",
+                    "b": "24 bags",
+                    "c": "28 bags",
+                    "d": "30 bags",
+                    "e": "30 bags"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2007"
+            },
+            {
+                "id": 403,
+                "question": "Government can boost agricultural output in Nigeria primarily by",
+                "option": {
+                    "a": "embarking on buffer stock programs",
+                    "b": "granting subsidies on farm Inputs",
+                    "c": "placing embargo on food importation",
+                    "d": "placing farmers on monthly income",
+                    "e": "placing farmers on monthly income"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 40,
+                "question": "A producer sustains a loss in the short run if? ",
+                "option": {
+                    "a": "marginal revenue is less than price ",
+                    "b": "price is less than average cost",
+                    "c": "marginal cost is less than marginal  revenue ",
+                    "d": "average variable cost is less than average cost",
+                    "e": "average variable cost is less than average cost"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2007"
+            },
+            {
+                "id": 17,
+                "question": "The creation of utility can be referred to as ",
+                "option": {
+                    "a": "value added ",
+                    "b": "profit marginalization ",
+                    "c": "production",
+                    "d": "entrepreneurship.",
+                    "e": "entrepreneurship."
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2006"
+            },
+            {
+                "id": 502,
+                "question": "A policy by which governments restrict the amount of \n\tforeign currencies bought and sold is known as",
+                "option": {
+                    "a": "devaluation",
+                    "b": "credit creation",
+                    "c": "exchange control",
+                    "d": "export promotion",
+                    "e": "export promotion"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2004"
+            },
+            {
+                "id": 627,
+                "question": "The main objective of privatizing a government business is to",
+                "option": {
+                    "a": "create additional employment",
+                    "b": "increase expenditure",
+                    "c": "source for new funds",
+                    "d": "increase the level of efficiency",
+                    "e": "increase the level of efficiency"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2007"
+            },
+            {
+                "id": 624,
+                "question": "Which of the following is a characteristic of monopoly?",
+                "option": {
+                    "a": "Many sellers",
+                    "b": "Homogeneous commodity.",
+                    "c": "A single seller",
+                    "d": "Perfect knowledge",
+                    "e": "Perfect knowledge"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2007"
+            },
+            {
+                "id": 574,
+                "question": "In the normal market situation, when the price of a commodity rises, the",
+                "option": {
+                    "a": "demand for the commodity will rise",
+                    "b": "demand for the commodity will fall",
+                    "c": "supply of the commodity will be constant",
+                    "d": "Supply of the commodity will fall.",
+                    "e": "Supply of the commodity will fall."
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2006"
+            },
+            {
+                "id": 495,
+                "question": "Which of the following is not a direct effort to increase agricultural production?",
+                "option": {
+                    "a": "Operation feed the nation",
+                    "b": "Use of improved seedlings",
+                    "c": "Increased loans to farmer and co-operative societies",
+                    "d": "National Youth Service Corps",
+                    "e": "National Youth Service Corps"
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2004"
+            },
+            {
+                "id": 391,
+                "question": "An agreement among firms on price and segmentation is termed",
+                "option": {
+                    "a": "Cartel",
+                    "b": "haggling",
+                    "c": "collusion",
+                    "d": "specialization",
+                    "e": "specialization"
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 508,
+                "question": "The economic Community of West African States (ECOWAS) has been slow in achieving its objectives because of",
+                "option": {
+                    "a": "political instability in member state",
+                    "b": "the activities of multi-national",
+                    "c": "inadequate personnel at the secretariat",
+                    "d": "inadequate international support",
+                    "e": "inadequate international support"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2004"
+            },
+            {
+                "id": 325,
+                "question": "A major assumption in cardinal utility theory is that",
+                "option": {
+                    "a": "utility is measurable",
+                    "b": "utility is not measurable",
+                    "c": "total utility equals marginal utility",
+                    "d": "total utility is constant",
+                    "e": "total utility is constant"
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "utme",
+                "examyear": "2009"
+            },
+            {
+                "id": 551,
+                "question": "One reason for the low agricultural production in West African countries is that",
+                "option": {
+                    "a": "agriculture employs the highest percentage of the labour force",
+                    "b": "too much money is invested in agriculture",
+                    "c": "farmers lack the finance and technology required",
+                    "d": "the farms are too large",
+                    "e": "the farms are too large"
+                },
+                "section": "",
+                "image": "",
+                "answer": "c",
+                "solution": "",
+                "examtype": "wassce",
+                "examyear": "2005"
+            },
+            {
+                "id": 52,
+                "question": "The reason for the law of demand can best be explained in terms of: ",
+                "option": {
+                    "a": "supply ",
+                    "b": "complementary goods ",
+                    "c": "the rationing function of price ",
+                    "d": "diminishing marginal utility.",
+                    "e": "diminishing marginal utility."
+                },
+                "section": "",
+                "image": "",
+                "answer": "d",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2008"
+            },
+            {
+                "id": 163,
+                "question": "A person should consume more of something when its marginal: ",
+                "option": {
+                    "a": "benefit exceeds its marginal cost ",
+                    "b": "cost benefit ",
+                    "c": "cost equal its marginal benefit ",
+                    "d": "benefit is still positive.",
+                    "e": "benefit is still positive."
+                },
+                "section": "",
+                "image": "",
+                "answer": "a",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2010"
+            },
+            {
+                "id": 128,
+                "question": "The following is not correct  ",
+                "option": {
+                    "a": "Average variable cost equals average total cost minus average fixed cost   ",
+                    "b": "Average fixed cost equals average variable cost minus average total cost  ",
+                    "c": "Average total cost equals average variable cost plus average fixed cost  ",
+                    "d": "Average total cost minus average variable cost equals average fixed cost ",
+                    "e": "Average total cost minus average variable cost equals average fixed cost "
+                },
+                "section": "",
+                "image": "",
+                "answer": "b",
+                "solution": "",
+                "examtype": "post-utme",
+                "examyear": "2012"
+            }
+        ]
+    }
+]
