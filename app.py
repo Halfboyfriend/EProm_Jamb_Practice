@@ -56,7 +56,7 @@ class Subject_form(FlaskForm):
     submit = SubmitField("")
 
 
-CHOSED_SUBJECTS = list()
+CHOSED_SUBJECTS = [['english','mathematics',  'physics', 'chemistry']]
 
 @app.route('/')
 def home():
@@ -73,7 +73,8 @@ def exam():
             subjects = request.form.getlist('options')
             if len(subjects) == 3:
                 Selected = True
-                CHOSED_SUBJECTS.append(subjects)
+                
+                # CHOSED_SUBJECTS.append(subjects)
                 # for _ in range(1, 3):
                 #     for sub in subjects:
                 #         QUES = QUESTIONS(sub)
@@ -92,17 +93,23 @@ def exam():
 @app.route('/ongoing-exam', methods=['POST'])
 def ongoing_exam():
     if "user_session" in session:
-        current_sub = str(CHOSED_SUBJECTS[0])
-        Que = QUESTIONS(current_sub)
+        Que = QUESTIONS(CHOSED_SUBJECTS[0])
         DATA_LOG = Que.load_question()
         TIMING = countdown_timer(300)
         Start = False
         form = Subject_form()
-        question = 1
         if request.method == 'POST':
             Start = True
             
-        return render_template('ongoing.html', DATA_LOG=DATA_LOG, TIMING=TIMING, start=Start,form=form, question=question)
+        return render_template('ongoing.html', DATA_LOG=DATA_LOG, TIMING=TIMING, start=Start,form=form)
+    else:
+        return redirect(url_for('login'))
+    
+
+@app.route('/checkResult', methods=['POST'])
+def checkResult() :
+    if "user_session" in session:
+        return render_template('check.html')
     else:
         return redirect(url_for('login'))
 

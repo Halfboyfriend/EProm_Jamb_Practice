@@ -38,7 +38,12 @@ class QUESTIONS():
 
 
 
-SUBJECTS = ['chemistry', 'physics', 'english']
+SUBJECTS = ['english', 'physics', 'english']
+
+que = QUESTIONS(SUBJECTS)
+
+loaded = que.load_question()
+print(loaded)
 
 # for sub in SUBJECTS:
 #     question = QUESTIONS(sub)

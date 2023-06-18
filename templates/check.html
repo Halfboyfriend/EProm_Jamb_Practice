@@ -1,0 +1,47 @@
+{%extends "base.html"%}
+{%include "header.html"%}
+{%import 'bootstrap/wtf.html' as wtf%}
+
+
+{%block title%} Results
+{%endblock%}
+
+
+{%block content%}
+
+<div id="content" class="p-4 p-md-5 pt-5 mt-3">
+
+    {%with messages = get_flashed_messages()%}
+    {%if messages%}
+    {%for msg in messages%}
+
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong>{{msg}}</strong>
+        
+      </div>
+
+    {%endfor%}
+    {%endif%}
+    {%endwith%}
+
+    <div>
+        <h2 class="text-center">Results Obtained</h2>
+    </div>
+
+</div>
+{%endblock%}
+
+
+
+
+{%include "footer.html"%}
+
+
+
+
+
+
+
+
+
+
